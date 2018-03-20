@@ -1,0 +1,10 @@
+G:\demo\example\WebPlatform.Repoitory\bin\Debug\netstandard2.0\WebPlatform.Repoitory.deps.json
+G:\demo\example\WebPlatform.Repoitory\bin\Debug\netstandard2.0\WebPlatform.Repoitory.dll
+G:\demo\example\WebPlatform.Repoitory\bin\Debug\netstandard2.0\WebPlatform.Repoitory.pdb
+G:\demo\example\WebPlatform.Repoitory\bin\Debug\netstandard2.0\WebPlatform.IRepoitory.dll
+G:\demo\example\WebPlatform.Repoitory\bin\Debug\netstandard2.0\WebPlatform.IRepoitory.pdb
+G:\demo\example\WebPlatform.Repoitory\obj\Debug\netstandard2.0\WebPlatform.Repoitory.csproj.CoreCompileInputs.cache
+G:\demo\example\WebPlatform.Repoitory\obj\Debug\netstandard2.0\WebPlatform.Repoitory.AssemblyInfoInputs.cache
+G:\demo\example\WebPlatform.Repoitory\obj\Debug\netstandard2.0\WebPlatform.Repoitory.AssemblyInfo.cs
+G:\demo\example\WebPlatform.Repoitory\obj\Debug\netstandard2.0\WebPlatform.Repoitory.dll
+G:\demo\example\WebPlatform.Repoitory\obj\Debug\netstandard2.0\WebPlatform.Repoitory.pdb

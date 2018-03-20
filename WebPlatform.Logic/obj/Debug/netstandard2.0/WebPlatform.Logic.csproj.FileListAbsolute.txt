@@ -1,0 +1,14 @@
+G:\demo\example\WebPlatform.Logic\bin\Debug\netstandard2.0\WebPlatform.Logic.deps.json
+G:\demo\example\WebPlatform.Logic\bin\Debug\netstandard2.0\WebPlatform.Logic.dll
+G:\demo\example\WebPlatform.Logic\bin\Debug\netstandard2.0\WebPlatform.Logic.pdb
+G:\demo\example\WebPlatform.Logic\bin\Debug\netstandard2.0\WebPlatform.IRepoitory.dll
+G:\demo\example\WebPlatform.Logic\bin\Debug\netstandard2.0\WebPlatform.Repoitory.dll
+G:\demo\example\WebPlatform.Logic\bin\Debug\netstandard2.0\WebPlatform.Services.dll
+G:\demo\example\WebPlatform.Logic\bin\Debug\netstandard2.0\WebPlatform.Services.pdb
+G:\demo\example\WebPlatform.Logic\bin\Debug\netstandard2.0\WebPlatform.IRepoitory.pdb
+G:\demo\example\WebPlatform.Logic\bin\Debug\netstandard2.0\WebPlatform.Repoitory.pdb
+G:\demo\example\WebPlatform.Logic\obj\Debug\netstandard2.0\WebPlatform.Logic.csproj.CoreCompileInputs.cache
+G:\demo\example\WebPlatform.Logic\obj\Debug\netstandard2.0\WebPlatform.Logic.AssemblyInfoInputs.cache
+G:\demo\example\WebPlatform.Logic\obj\Debug\netstandard2.0\WebPlatform.Logic.AssemblyInfo.cs
+G:\demo\example\WebPlatform.Logic\obj\Debug\netstandard2.0\WebPlatform.Logic.dll
+G:\demo\example\WebPlatform.Logic\obj\Debug\netstandard2.0\WebPlatform.Logic.pdb

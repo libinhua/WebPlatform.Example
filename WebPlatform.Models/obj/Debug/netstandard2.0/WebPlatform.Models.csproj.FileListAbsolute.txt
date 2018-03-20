@@ -1,0 +1,8 @@
+G:\demo\example\WebPlatform.Models\bin\Debug\netstandard2.0\WebPlatform.Models.deps.json
+G:\demo\example\WebPlatform.Models\bin\Debug\netstandard2.0\WebPlatform.Models.dll
+G:\demo\example\WebPlatform.Models\bin\Debug\netstandard2.0\WebPlatform.Models.pdb
+G:\demo\example\WebPlatform.Models\obj\Debug\netstandard2.0\WebPlatform.Models.csproj.CoreCompileInputs.cache
+G:\demo\example\WebPlatform.Models\obj\Debug\netstandard2.0\WebPlatform.Models.AssemblyInfoInputs.cache
+G:\demo\example\WebPlatform.Models\obj\Debug\netstandard2.0\WebPlatform.Models.AssemblyInfo.cs
+G:\demo\example\WebPlatform.Models\obj\Debug\netstandard2.0\WebPlatform.Models.dll
+G:\demo\example\WebPlatform.Models\obj\Debug\netstandard2.0\WebPlatform.Models.pdb

@@ -1,0 +1,12 @@
+G:\demo\example\WebPlatform.Services\bin\Debug\netstandard2.0\WebPlatform.IRepoitory.dll
+G:\demo\example\WebPlatform.Services\bin\Debug\netstandard2.0\WebPlatform.Repoitory.dll
+G:\demo\example\WebPlatform.Services\bin\Debug\netstandard2.0\WebPlatform.IRepoitory.pdb
+G:\demo\example\WebPlatform.Services\bin\Debug\netstandard2.0\WebPlatform.Repoitory.pdb
+G:\demo\example\WebPlatform.Services\obj\Debug\netstandard2.0\WebPlatform.Services.csproj.CoreCompileInputs.cache
+G:\demo\example\WebPlatform.Services\obj\Debug\netstandard2.0\WebPlatform.Services.AssemblyInfoInputs.cache
+G:\demo\example\WebPlatform.Services\obj\Debug\netstandard2.0\WebPlatform.Services.AssemblyInfo.cs
+G:\demo\example\WebPlatform.Services\obj\Debug\netstandard2.0\WebPlatform.Services.dll
+G:\demo\example\WebPlatform.Services\obj\Debug\netstandard2.0\WebPlatform.Services.pdb
+G:\demo\example\WebPlatform.Services\bin\Debug\netstandard2.0\WebPlatform.Services.deps.json
+G:\demo\example\WebPlatform.Services\bin\Debug\netstandard2.0\WebPlatform.Services.dll
+G:\demo\example\WebPlatform.Services\bin\Debug\netstandard2.0\WebPlatform.Services.pdb
